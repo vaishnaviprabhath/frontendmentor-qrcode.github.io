@@ -20,6 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 The task is to build the QR code component as close as possible to the images in JPG format of the designs given.
 
 ### Screenshot
+![Screenshot ](https://user-images.githubusercontent.com/61399704/217549559-402774ca-9fad-4b6f-99ab-4ee45bcbf9e4.png)
+
 
 
 ### Links
