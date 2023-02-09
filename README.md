@@ -24,8 +24,8 @@ The task is to build the QR code component as close as possible to the images in
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://vaishnaviprabhath.github.io/frontendmentor-qrcode.github.io/)
+- [Solution URL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/solutions/new)
+- [Live Site URL](https://vaishnaviprabhath.github.io/frontendmentor-qrcode.github.io/)
 
 ## My process
 1.Open the unzipped files with VS code, read the instructions and style guide, as well as the design images.
